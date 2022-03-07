@@ -3,7 +3,7 @@
     "type": "library",
     "description": "PHP FFI headers base library",
     "license": "MIT",
-    "keywords": ["ffi", "bin", "headers"],
+    "keywords": ["ffi", "headers", "contracts", "abstractions", "decoupling", "interfaces", "interoperability", "standards"],
     "support": {
         "source": "https://github.com/php-ffi-libs/headers",
         "issues": "https://github.com/php-ffi-libs/headers/issues",
