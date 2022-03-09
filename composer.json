@@ -1,5 +1,5 @@
 {
-    "name": "ffi-headers/headers-contracts",
+    "name": "ffi-headers/contracts",
     "type": "library",
     "description": "PHP FFI headers base library",
     "license": "MIT",
