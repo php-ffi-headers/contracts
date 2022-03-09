@@ -1,13 +1,13 @@
 {
-    "name": "ffi-libs/headers-contracts",
+    "name": "ffi-headers/headers-contracts",
     "type": "library",
     "description": "PHP FFI headers base library",
     "license": "MIT",
     "keywords": ["ffi", "headers", "contracts", "abstractions", "decoupling", "interfaces", "interoperability", "standards"],
     "support": {
-        "source": "https://github.com/php-ffi-libs/headers-contracts",
-        "issues": "https://github.com/php-ffi-libs/headers-contracts/issues",
-        "docs": "https://github.com/php-ffi-libs/headers-contracts/blob/master/README.md"
+        "source": "https://github.com/php-ffi-headers/headers-contracts",
+        "issues": "https://github.com/php-ffi-headers/headers-contracts/issues",
+        "docs": "https://github.com/php-ffi-headers/headers-contracts/blob/master/README.md"
     },
     "authors": [
         {
