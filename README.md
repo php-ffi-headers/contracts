@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/ffi-libs">
+    <a href="https://github.com/php-ffi-libs">
         <img src="https://avatars.githubusercontent.com/u/101121010?s=256" width="128" alt="Phplrt" />
     </a>
 </p>
