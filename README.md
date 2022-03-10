@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/php-ffi-headers/headers-contracts/actions"><img src="https://github.com/php-ffi-headers/headers-contracts/workflows/build/badge.svg"></a>
-    <a href="https://packagist.org/packages/ffi-headers/headers-contracts"><img src="https://img.shields.io/badge/PHP-8.1+-ff0140.svg" alt="PHP 7.1+"></a>
-    <a href="https://packagist.org/packages/ffi-headers/headers-contracts"><img src="https://poser.pugx.org/ffi-headers/headers-contracts/version" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/ffi-headers/headers-contracts"><img src="https://poser.pugx.org/ffi-headers/headers-contracts/v/unstable" alt="Latest Unstable Version"></a>
-    <a href="https://packagist.org/packages/ffi-headers/headers-contracts"><img src="https://poser.pugx.org/ffi-headers/headers-contracts/downloads" alt="Total Downloads"></a>
-    <a href="https://raw.githubusercontent.com/php-ffi-headers/headers-contracts/master/LICENSE.md"><img src="https://poser.pugx.org/ffi-headers/headers-contracts/license" alt="License MIT"></a>
+    <a href="https://github.com/php-ffi-headers/contracts/actions"><img src="https://github.com/php-ffi-headers/contracts/workflows/build/badge.svg"></a>
+    <a href="https://packagist.org/packages/ffi-headers/contracts"><img src="https://img.shields.io/badge/PHP-8.1+-ff0140.svg" alt="PHP 7.1+"></a>
+    <a href="https://packagist.org/packages/ffi-headers/contracts"><img src="https://poser.pugx.org/ffi-headers/contracts/version" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/ffi-headers/contracts"><img src="https://poser.pugx.org/ffi-headers/contracts/v/unstable" alt="Latest Unstable Version"></a>
+    <a href="https://packagist.org/packages/ffi-headers/contracts"><img src="https://poser.pugx.org/ffi-headers/contracts/downloads" alt="Total Downloads"></a>
+    <a href="https://raw.githubusercontent.com/php-ffi-headers/contracts/master/LICENSE.md"><img src="https://poser.pugx.org/ffi-headers/contracts/license" alt="License MIT"></a>
 </p>
 
 # Headers Contracts
