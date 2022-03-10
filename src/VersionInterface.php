@@ -19,7 +19,7 @@ interface VersionInterface
     /**
      * Returns string representation of the version.
      *
-     * @return non-empty-string
+     * @return VersionStringType
      */
     public function toString(): string;
 }

@@ -16,7 +16,7 @@ use FFI\Contracts\Headers\Version\ComparableInterface;
 
 /**
  * @psalm-import-type VersionStringType from VersionInterface
- */
+  */
 final class Version implements ComparableInterface
 {
     use Comparable;

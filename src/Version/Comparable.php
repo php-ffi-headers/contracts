@@ -16,7 +16,11 @@ use FFI\Contracts\Headers\VersionInterface;
 
 /**
  * @mixin ComparableInterface
+ * @mixin VersionInterface
+ *
  * @psalm-require-implements ComparableInterface
+ * @psalm-require-implements VersionInterface
+ *
  * @psalm-import-type VersionStringType from VersionInterface
  */
 trait Comparable
@@ -36,6 +40,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function eq(VersionInterface|string $version): bool
     {
@@ -44,6 +49,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function neq(VersionInterface|string $version): bool
     {
@@ -52,6 +58,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function gt(VersionInterface|string $version): bool
     {
@@ -60,6 +67,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function gte(VersionInterface|string $version): bool
     {
@@ -68,6 +76,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function lt(VersionInterface|string $version): bool
     {
@@ -76,6 +85,7 @@ trait Comparable
 
     /**
      * {@inheritDoc}
+     * @psalm-suppress ArgumentTypeCoercion
      */
     public function lte(VersionInterface|string $version): bool
     {
