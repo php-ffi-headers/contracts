@@ -5,9 +5,9 @@
     "license": "MIT",
     "keywords": ["ffi", "headers", "contracts", "abstractions", "decoupling", "interfaces", "interoperability", "standards"],
     "support": {
-        "source": "https://github.com/php-ffi-headers/headers-contracts",
-        "issues": "https://github.com/php-ffi-headers/headers-contracts/issues",
-        "docs": "https://github.com/php-ffi-headers/headers-contracts/blob/master/README.md"
+        "source": "https://github.com/php-ffi-headers/contracts",
+        "issues": "https://github.com/php-ffi-headers/contracts/issues",
+        "docs": "https://github.com/php-ffi-headers/contracts/blob/master/README.md"
     },
     "authors": [
         {
