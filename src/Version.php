@@ -39,6 +39,19 @@ final class Version implements ComparableInterface
     }
 
     /**
+     * @param VersionInterface $version
+     * @return static
+     */
+    public static function fromVersion(VersionInterface $version): self
+    {
+        if ($version instanceof self) {
+            return $version;
+        }
+
+        return self::fromString($version->toString());
+    }
+
+    /**
      * {@inheritDoc}
      */
     public function toString(): string
